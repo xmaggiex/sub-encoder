@@ -1,11 +1,6 @@
 # sub-encoder
 author: Ernest Feret
 
-0. Requirements.
-1. Short description. 
-2. Motivation and usage. 
-3. TODO
-
 0. Requirements:
 qnapi
 
